@@ -1,0 +1,4 @@
+# fill in the parameter values below and rename file to '.env'
+# auth0 setup
+CLIENT_ID=
+CLIENT_SECRET=
